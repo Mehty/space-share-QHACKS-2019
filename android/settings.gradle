@@ -1,0 +1,3 @@
+rootProject.name = 'space_share_QHACKS2019'
+
+include ':app'
